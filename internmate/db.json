@@ -1,0 +1,22 @@
+{
+    "internships": [
+      {
+        "id": 1,
+        "title": "Frontend Intern",
+        "company": "Startup",
+        "location": "Thane"
+      },
+      {
+        "id": 2,
+        "title": "Backend Intern",
+        "company": "Tech Co",
+        "location": "Mumbai"
+      },
+      {
+        "id": 3,
+        "title": "UI/UX Intern",
+        "company": "Design Studio",
+        "location": "Pune"
+      }
+    ]
+  }
