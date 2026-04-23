@@ -15,7 +15,7 @@ function Home() {
 
   // 📡 Fetch data
   useEffect(() => {
-    fetch("http://localhost:3000/internships")
+    fetch("https://internmate-swes.onrender.com")
       .then((res) => res.json())
       .then((data) => setInternships(data))
       .catch((err) => console.error(err));
